@@ -1,0 +1,9 @@
+C:\VS_Projects\Stack_Lesson4\Stack_Lesson4\bin\Debug\Stack_Lesson4.exe.config
+C:\VS_Projects\Stack_Lesson4\Stack_Lesson4\bin\Debug\Stack_Lesson4.exe
+C:\VS_Projects\Stack_Lesson4\Stack_Lesson4\bin\Debug\Stack_Lesson4.pdb
+C:\VS_Projects\Stack_Lesson4\Stack_Lesson4\obj\Debug\Stack_Lesson4.csprojResolveAssemblyReference.cache
+C:\VS_Projects\Stack_Lesson4\Stack_Lesson4\obj\Debug\Stack_Lesson4.exe
+C:\VS_Projects\Stack_Lesson4\Stack_Lesson4\obj\Debug\Stack_Lesson4.pdb
+C:\GIT_Repository\Stack_Lesson4\Stack_Lesson4\bin\Debug\Stack_Lesson4.exe.config
+C:\GIT_Repository\Stack_Lesson4\Stack_Lesson4\obj\Debug\Stack_Lesson4.exe
+C:\GIT_Repository\Stack_Lesson4\Stack_Lesson4\obj\Debug\Stack_Lesson4.pdb
