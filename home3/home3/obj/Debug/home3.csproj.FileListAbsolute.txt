@@ -1,0 +1,6 @@
+E:\REM_Visual_Studio\home3\home3\bin\Debug\home3.exe.config
+E:\REM_Visual_Studio\home3\home3\obj\Debug\home3.csprojResolveAssemblyReference.cache
+E:\REM_Visual_Studio\home3\home3\bin\Debug\home3.exe
+E:\REM_Visual_Studio\home3\home3\bin\Debug\home3.pdb
+E:\REM_Visual_Studio\home3\home3\obj\Debug\home3.exe
+E:\REM_Visual_Studio\home3\home3\obj\Debug\home3.pdb
