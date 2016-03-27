@@ -1,0 +1,2 @@
+E:\REM_Visual_Studio\home6_sorter\home6_sorter\bin\Debug\home6_sorter.exe.config
+C:\GIT_Repository\home6_sorter\home6_sorter\bin\Debug\home6_sorter.exe.config
