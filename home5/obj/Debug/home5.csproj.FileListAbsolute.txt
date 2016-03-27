@@ -1,0 +1,6 @@
+C:\VS_Projects\home5\home5\bin\Debug\home5.exe.config
+C:\VS_Projects\home5\home5\obj\Debug\home5.csprojResolveAssemblyReference.cache
+C:\VS_Projects\home5\home5\bin\Debug\home5.exe
+C:\VS_Projects\home5\home5\bin\Debug\home5.pdb
+C:\VS_Projects\home5\home5\obj\Debug\home5.exe
+C:\VS_Projects\home5\home5\obj\Debug\home5.pdb
