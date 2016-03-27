@@ -1,0 +1,6 @@
+E:\REM_Visual_Studio\home2\home2\bin\Debug\home2.exe.config
+E:\REM_Visual_Studio\home2\home2\bin\Debug\home2.exe
+E:\REM_Visual_Studio\home2\home2\bin\Debug\home2.pdb
+E:\REM_Visual_Studio\home2\home2\obj\Debug\home2.csprojResolveAssemblyReference.cache
+E:\REM_Visual_Studio\home2\home2\obj\Debug\home2.exe
+E:\REM_Visual_Studio\home2\home2\obj\Debug\home2.pdb
