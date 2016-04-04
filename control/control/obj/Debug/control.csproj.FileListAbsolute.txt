@@ -1,0 +1,5 @@
+E:\REM_Visual_Studio\control\control\bin\Debug\control.exe.config
+E:\REM_Visual_Studio\control\control\bin\Debug\control.exe
+E:\REM_Visual_Studio\control\control\bin\Debug\control.pdb
+E:\REM_Visual_Studio\control\control\obj\Debug\control.exe
+E:\REM_Visual_Studio\control\control\obj\Debug\control.pdb
