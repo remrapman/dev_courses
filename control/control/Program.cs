@@ -8,7 +8,6 @@ namespace control
 {
     class Program
     {
-       // static MyLinkedList<int> NewData = new MyLinkedList<int>();
         static Stack<int> NewData = new Stack<int>();
         Stack<int> StackPeek = new Stack<int>();
         static void Main(string[] args)
@@ -33,13 +32,12 @@ namespace control
 
                     case 2:
                         Console.WriteLine("You select - Pop");
+                        Console.WriteLine("Your number is: " + NewData.Pop());
                         break;
 
                     case 3:
                         Console.WriteLine("You select - Peek");
-                        NewData.Peek();
-                        
-                        //Stack<int>.Peek();
+                        Console.WriteLine("Your number is: " + NewData.Peek());
                         break;
 
                     case 4:
@@ -52,7 +50,7 @@ namespace control
 
         static Stack<int> EnterElement()
         {
-            Console.WriteLine("Enter element");
+            Console.WriteLine("Enter your element:");
             NewData.Push(Int32.Parse(Console.ReadLine()));
             return NewData;
         }

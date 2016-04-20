@@ -3,3 +3,9 @@ E:\REM_Visual_Studio\control\control\bin\Debug\control.exe
 E:\REM_Visual_Studio\control\control\bin\Debug\control.pdb
 E:\REM_Visual_Studio\control\control\obj\Debug\control.exe
 E:\REM_Visual_Studio\control\control\obj\Debug\control.pdb
+C:\VS_Projects\dev_courses\control\control\bin\Debug\control.exe.config
+C:\VS_Projects\dev_courses\control\control\obj\Debug\control.exe
+C:\VS_Projects\dev_courses\control\control\obj\Debug\control.pdb
+C:\VS_Projects\dev_courses\control\control\bin\Debug\control.exe
+C:\VS_Projects\dev_courses\control\control\bin\Debug\control.pdb
+C:\VS_Projects\dev_courses\control\control\obj\Debug\control.csprojResolveAssemblyReference.cache

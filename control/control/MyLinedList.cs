@@ -10,7 +10,7 @@ namespace control
     {
         //private T Data;
         public static Node<T> head;
-        
+
 
         public void Insertion(T Data)
         {
@@ -20,9 +20,38 @@ namespace control
             head = Temp;
         }
 
-        public void Deletion()
+        public bool IsEmpty()
         {
-
+            return (head == null);
         }
+
+        public T Deletion()
+        {
+            if (IsEmpty())
+            {
+                Console.WriteLine("Buffer is empty!");
+                return default(T);
+            }
+            else
+            {
+                Node<T> temp = head;
+                head = head.next;
+                return temp.value;
+            }
+        }
+
+        public T ShowElement()
+        {
+            if (IsEmpty())
+            {
+                Console.WriteLine("Buffer is empty!");
+                return default(T);
+            }
+            else
+            {
+                return head.value;
+            }
+        }
+
     }
 }

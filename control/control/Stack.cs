@@ -8,14 +8,9 @@ namespace control
 {
     class Stack<T>
     {
-        private T StackElement;
-        public MyLinkedList<T> StackData;
-        
-        //public Stack(T data)
-        //{
-        //    StackData.value = data;
-        //}
 
+        MyLinkedList<T> StackData = new MyLinkedList<T>();
+        
         public void Push(T Data)
         {
             StackData.Insertion(Data);
@@ -23,22 +18,12 @@ namespace control
 
         public T Pop()
         {
-            return default(T);
-        }
-
-        public bool IsEmpty(int top)
-        {
-            if (top == 0)
-            {
-                return true;
-            }
-            return false;
+            return StackData.Deletion();
         }
 
         public T Peek()
         {
-            return
-            StackData.value;
+            return StackData.ShowElement();
         }
     }
 }
